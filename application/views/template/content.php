@@ -190,3 +190,6 @@
         <!-- /.col -->
       </div>
       <!-- /.row -->
+      <script>
+
+</script>

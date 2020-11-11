@@ -38,6 +38,16 @@ $(function () {
         pointHighlightFill  : '#fff',
         pointHighlightStroke: 'rgba(60,141,188,1)',
         data                : [28, 48, 40, 19, 86, 27, 90]
+      },
+      {
+        label               : 'Digital Goods',
+        fillColor           : 'rgba(60,141,30,0.9)',
+        strokeColor         : 'rgba(60,141,188,0.8)',
+        pointColor          : '#3b8bba',
+        pointStrokeColor    : 'rgba(60,141,188,1)',
+        pointHighlightFill  : '#fff',
+        pointHighlightStroke: 'rgba(60,141,188,1)',
+        data                : [28, 11, 40, 19, 86, 27, 90]
       }
     ]
   };
